@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Notice",
+  "base_artist": "Moe Shop",
+  "createdAt": "2025-12-14T05:01:10.900480Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Things You Notice",
+      "artist": "Marnie Stern",
+      "has_synced": false,
+      "path": "select/01_The_Things_You_Notice_Marnie_Stern.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Notice",
+      "artist": "Nnamdi Ogbonnaya",
+      "has_synced": false,
+      "path": "select/02_Notice_Nnamdi_Ogbonnaya.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I Promise Not to Notice If You Promise to Pretend",
+      "artist": "Ides of Space",
+      "has_synced": false,
+      "path": "select/03_I_Promise_Not_to_Notice_If_You_Promise_to_Pretend_Ides_of_Space.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "R.I.P. Fredo (feat. Young Nudy) - Notice Me",
+      "artist": "Playboi Carti feat. Young Nudy",
+      "has_synced": true,
+      "path": "select/04_R.I.P._Fredo_(feat._Young_Nudy)_-_Notice_Me_Playboi_Carti_feat._Young_Nudy.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "R.I.P. Fredo (Notice Me) (feat. Young Nudy)",
+      "artist": "Playboi Carti",
+      "has_synced": true,
+      "path": "select/05_R.I.P._Fredo_(Notice_Me)_(feat._Young_Nudy)_Playboi_Carti.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Bach Ke Rehna (Red Notice)",
+      "artist": "Badshah feat. DIVINE, Jonita Gandhi & Mikey McCleary",
+      "has_synced": true,
+      "path": "select/06_Bach_Ke_Rehna_(Red_Notice)_Badshah_feat._DIVINE,_Jonita_Gandhi_&_Mikey_McCleary.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Bach Ke Rehna (Red Notice)",
+      "artist": "Badshah, DIVINE, Jonita Gandhi, Mikey McCleary",
+      "has_synced": true,
+      "path": "select/07_Bach_Ke_Rehna_(Red_Notice)_Badshah,_DIVINE,_Jonita_Gandhi,_Mikey_McCleary.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "NOTICE",
+      "artist": "JIMMY EDGAR feat. 24hrs",
+      "has_synced": true,
+      "path": "select/08_NOTICE_JIMMY_EDGAR_feat._24hrs.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Notice (feat. 24hrs)",
+      "artist": "Jimmy Edgar",
+      "has_synced": true,
+      "path": "select/09_Notice_(feat._24hrs)_Jimmy_Edgar.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Take Notice",
+      "artist": "J Dilla feat. Guilty Simpson",
+      "has_synced": true,
+      "path": "select/10_Take_Notice_J_Dilla_feat._Guilty_Simpson.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Take Notice",
+      "artist": "J Dilla",
+      "has_synced": true,
+      "path": "select/11_Take_Notice_J_Dilla.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Notice",
+      "artist": "Diana Vickers",
+      "has_synced": true,
+      "path": "select/12_Notice_Diana_Vickers.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Disconnection Notice",
+      "artist": "Sonic Youth",
+      "has_synced": true,
+      "path": "select/13_Disconnection_Notice_Sonic_Youth.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Notice of Eviction",
+      "artist": "Saul Williams",
+      "has_synced": true,
+      "path": "select/14_Notice_of_Eviction_Saul_Williams.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Notice",
+      "artist": "The-Dream",
+      "has_synced": false,
+      "path": "select/15_Notice_The-Dream.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Notice",
+      "artist": "Ziggy Marley & The Melody Makers",
+      "has_synced": false,
+      "path": "select/16_Notice_Ziggy_Marley_&_The_Melody_Makers.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Notice (Know This)",
+      "artist": "Public Enemy",
+      "has_synced": false,
+      "path": "select/17_Notice_(Know_This)_Public_Enemy.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Notice (feat. Kizuna AI)",
+      "artist": "Moe Shop",
+      "has_synced": false,
+      "path": "select/pl_01_Notice_(feat._Kizuna_AI)_Moe_Shop.txt"
+    }
+  ]
+}
